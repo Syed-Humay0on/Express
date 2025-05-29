@@ -1,5 +1,5 @@
 # This is my first Obsidian Express *vault*.
-![axios](https://cdn.prod.website-files.com/5e19ea5aa7d3a217492e372b/624de949df5a11680ab170b9_Axios%20logo%20-%20RGB%20-%20minimum%20space.png)
+![axios](https://miro.medium.com/v2/resize:fit:1400/0*U-_5QvffLmNQIU41.png)
 **Express JS** app using  [axios](https://axios-http.com/)!
 
 🔗[API]('https://jsonplaceholder.typicode.com/posts) fetch using axios <br/>
