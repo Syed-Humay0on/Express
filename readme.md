@@ -2,7 +2,7 @@
 
 Express JS app using  [axios](https://axios-http.com/)!
 
-When you're ready, delete this note and make the vault your own. <br/>
+[API]() fetch using axios <br/>
 🗳️ using axios to fetch the open api
 
 + This is a markdown File
