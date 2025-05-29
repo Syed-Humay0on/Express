@@ -7,3 +7,4 @@ When you're ready, delete this note and make the vault your own.
 🗳️
 
 + This is a markdown File
++ First time interval
