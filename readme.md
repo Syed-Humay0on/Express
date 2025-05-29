@@ -2,8 +2,7 @@
 
 Express JS app using  [axios](https://axios-http.com/)!
 
-[API]() fetch using axios <br/>
-🗳️ using axios to fetch the open api
+🔗[API]('https://jsonplaceholder.typicode.com/posts) fetch using axios <br/>
 
 + This is a markdown File
 💗 `readme button`
